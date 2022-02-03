@@ -1,0 +1,300 @@
+Typ zmiennych o nazwie float przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+c
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcj¹:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+d
+Która deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+x=integer;
+a
+Z jakiego przedzia³u zostanie wylosowana liczba: rand()%10+2
+0..9
+2..9
+2..11
+0..11
+c
+Ile razy wykona siê pêtla: for (int i=4; i>=-2; i--)
+ani razu
+nieskoñczenie wiele razy
+6
+7
+d
+Jak nazywa siê zbiór obiektów w których element ostatni na wejœciu jest pierwszy na wyjœciu?
+kolejka FIFO
+stos LIFO
+tablica
+mapa
+b
+Jak nazywa siê funkcja, która odczytuje znaki z klawiatury do naciœniêcia klawisza ENTER? Znak nowej linii (przesy³any klawiszem ENTER) jest odrzucany.
+cin.getline()
+cin.give()
+cin.get()
+cout.getline()
+a
+Jak nazywamy tablicê znaków zakoñczon¹ znakiem null? 
+string
+chain
+C-string
+C-chain
+c
+Jak nazywa siê flaga odpowiadaj¹ca za formatowanie notacjii wykladniczej?
+boolalpha 
+scientific 
+showpos
+showbase
+b
+Ile bajtów w pamieci zajmuje zmienna int?
+2 bajty
+4 bajty
+6 bajtow
+8 bajtow
+b
+Czym jest inkrementacja:
+Zmniejszenie wartoœci o 1
+Zwiêkszenie wartoœci o n, gdzie n>=2
+Zwiêkszenie wartoœci o 1
+Zwiêkszenie wartoœci o 2
+a
+Do czego odnosz¹ siê modyfikatory public, private i protected:
+Dziedziczenia
+Przestrzeni nazw
+Polimorfizmu
+Obiektów
+b
+Co oznacza znak podwójnej równoœci == w jêzykach pochodnych od jêzyka C:
+Przypisania wartoœci zmiennej
+Dodania do wartoœci jeden
+Porównania wartoœci zmiennych
+¯adne z powy¿szych
+d
+Proces inicjalizacji zmiennej to:
+Przypisanie wartoœci pocz¹tkowej zmiennej
+Utworzenie drugiej zmiennej, o takiej samej nazwie co pierwsza
+Przypisanie nowej wartoœæi
+¯adne z powy¿szych
+a
+Czym jest tzw. IDE:
+Algorytm
+Œrodowisko programistyczne
+Biblioteka przydatnych funkcji
+Kompilator
+b
+Od jakiej liczby zaczyna siê indeksacja tablic:
+0
+1
+2
+-1
+a
+Kod binarny sk³ada siê z?
+dwóch liter a i z
+dwóch cyfr 0 i 1
+trzech cyfr 2, 5, 8
+trzech liter a, o, z
+b
+Jakie s¹ kolory subpikseli
+czerwony, zielony, niebieski
+ró¿owy, fioletowy, ¿ó³ty
+czarny, szary, bia³y
+nie ma kolorów
+a
+Piksel sk³ada siê z trzech?
+algorytmów
+liter
+subpikseli
+cyfr
+c
+Blok operacyjny w schemacie blokowym to?
+trójk¹t
+kó³o
+kwadrat
+prostok¹t
+d
+Identyfikator zmiennej w TP/C++ mo¿e zawieraæ
+spacje
+wszystko
+polskie znaki, odstêpy, mo¿e zaczynaæ siê od cyfry
+litery (bez polskich znaków), cyfry, znaki podkreœlenia, nie mo¿e zaczynaæ siê od cyfry
+d
+Operator DIV to?
+mno¿enie
+dzielenie ca³kowite bez reszty
+dodawanie
+potêgowanie
+b
+Program g³ówny w TP zaczyna siê od s³owo kluczowego?
+begin
+uses
+write
+var
+a
+Definicje sta³ych w TP poprzedza siê s³owem kluczowym?
+const
+end
+clrscr
+readln
+a
+Operatorem relacji "ró¿ne od" w TP jest znak?
+>
+>=
+<>
+<=
+c
+Kompilacja - jest to?
+przeszukiwanie dysku twardego
+t³umaczenie programu Ÿród³owego na kod maszynowy
+t³umaczenie programu Ÿród³owego na maszynê
+t³umaczenie programu Ÿród³owego do pliku
+b
+Jeden z typów pokrewnych dla typu INTEGER to?
+BOOLEAN
+LONGINT
+DOUBLE
+REAL
+b
+Zmienne lub stale deklarujemy w?
+komentarzach
+programie g³ównym
+pêtlach
+bloku deklaracji
+d
+TP zosta³ wprowadzony na rynek w roku?
+2000
+1983
+1975
+1978
+b	
+Jêzyk programowania to?
+uporz¹dkowany ci¹g jasno zdefiniowanych czynnoœci
+zbiór zasad okreœlaj¹cych, kiedy ci¹g symboli tworzy programy
+przyk³ad stosowanego w ¿yciu codziennym algorytmu
+dostêp mocy obliczeniowej i pamiêci
+b
+Koniec programu w TP koñczymy s³owem kluczowym
+insert
+end;
+edn.
+begin.
+c
+Operator SQRT odpowiada za?
+potêgowanie
+pierwiastek kwadratowy
+dzielenie
+odejmowanie
+b
+Liczba 64 w kodzie binarnym to?
+111011
+11
+100011
+1000000
+d
+Kod Ÿród³owy to?
+brak kompilatorów dla danej platformy sprzêtowej
+proces projektowania, tworzenia, testowania
+wykorzystywanie ró¿nych stylów pogramowania
+ci¹d instrukcji i deklaracji zapisany w zrozumia³ym dla cz³owieko jêzyku programowania
+d
+S³owo kluczowe VAR w TP pozwala nam na?
+rozpoczêcie programu
+zadeklarowanie sta³ej
+zadeklarowanie zmiennej
+zakoñczenie programu
+c
+Znakowy typ danych to:
+char
+string
+int
+double
+a
+Za co odpowiada instrukcja „break”:
+Za przerwanie wykonywania metody
+Za zakoñczenie programu
+Za przerwanie wykonywania pêtli
+Za przerwanie wykonywania funkcji
+c
+W schematach blokowych, blok rombu oznacza:
+Instrukcjê wejœcia/wyjœcia
+Instrukcjê warunkow¹
+Instrukcjê pocz¹tku/koñca
+Blok operacyjny
+b
+Do urz¹dzeñ peryferyjnych komputera zaliczymy:
+p³ytê g³ówn¹, drukarkê, procesor, klawiaturê
+HDD, SSD, kartê graficzn¹, pamiêæ RAM
+monitor, dysk twardy, procesor, BIOS
+ploter, skaner, klawiaturê, monitor
+d
+Do chwilowego przechowywania kodów dzia³aj¹cych programów i danych s³u¿y:
+pamiêæ operacyjna
+dysk twardy
+pamiêæ typu flash
+BIOS
+a
+Systemem operacyjnym nie jest:
+Mac OS
+Linux
+MS - DOS
+Excel
+d
+Przetwarzanie obrazów w edytorze grafiki polega m.in. na :
+zamianie obrazów na zdjêcia cyfrowe
+dodawaniu dŸwiêków do wybranych elementów obrazu
+obracaniu, rozci¹ganiu i pochylaniu elementów obrazu
+dodawaniu animacji do wybranych elementów obrazu
+c
+RAM to:
+pamiêæ przenoœna (pendrive)
+program do uruchamiania komputera
+pamiêæ operacyjna
+dysk przenoœny
+c
+Eksplorator Windows to program do:
+uruchamiania komputera
+zarz¹dzania danymi
+dostêpu do internetu
+tworzenia dokumentów tekstowych
+b
+Rozszerzenia plików graficznych to:
+mp3, wav, midi, xcf
+png, tiff, bmp, jpg
+avi, mp4, 3gp, gif
+ppt, docx, xls, ods
+b
+Która wartoœæ jest najwiêksza?
+1 TB
+1024 KB
+100 GB
+1000 MB
+a
+Z ilu bitów sk³ada siê 1 Bajt?
+4
+8
+16
+9
+b
+Która z wymienionych licencji na oprogramowanie oznacza, ¿e mo¿na z niego korzystaæ bezp³atnie, bez ograniczeñ czasowych i koniecznoœci ogl¹dania reklam?
+Shareware
+Freeware
+Adware
+Trial
+b
+Liczba 110(2) w systemie binarnym odpowiada liczbie ......... w systemie dziesiêtnym.
+6
+10
+110
+8
+a
+Font szeryfowy wyró¿nia siê:
+krótkimi kreseczkami na zakoñczeniach liter
+wiêkszym rozmiarem ni¿ czcionka standardowa
+pogrubieniem
+przekreœleniem
+a

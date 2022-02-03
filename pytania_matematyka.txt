@@ -1,0 +1,300 @@
+Ile prostych mo¿na poprowadziæ przez punkt?
+2
+10
+nieskoñczonoœæ
+1
+c
+Ile dni ma rok przestêpny?
+365
+366
+364
+367
+b
+Je¿li pomno¿ysz mnie przez inn¹ liczbê, wynik zawsze bêdzie taki sam. Jak¹ jestem liczb¹?
+zero
+1
+1/2
+2
+a
+Ile razy mo¿esz odj¹æ 1 od 100?
+100 razy
+99 razy
+0 razy
+1 raz
+d
+Zofia ma 5 córek, a ka¿da z nich ma brata. Ile dzieci jest w tej rodzinie?
+10
+6
+11
+5
+b
+MCMXCIX to rok:
+1889
+1899
+1999
+1989
+c
+U³amek 15/25 to inaczej:
+3/5
+5/8
+1/5
+3/4
+a
+Obwód kwadratu o boku 4 wynosi
+18
+8
+12
+16
+d
+3 godziny to ile minut?
+160
+120
+180
+220
+c
+1, 1, 2, 3, 5, nastêpn¹ liczb¹ tego ci¹gu bêdzie:
+8
+7
+5
+10
+a
+W trójk¹cie równobocznym ka¿dy k¹t ma?
+80 stopni
+30 stopni
+To zale¿y od trójk¹ta
+60 stopni
+d
+f(x) = 2x + 1 to przyk³ad funkcji:
+trygonomatrycznje
+kwadratowej
+liniowej
+harmonicznej
+c
+2*(pi)*r to wzór na:
+œrednicê ko³a
+obwód ko³a
+pole powierzchni ko³a
+przekrój kuli
+b
+Ile wynosi pierwiastek kwadratowy z 64?
+4
+3
+8
+16
+c
+a=-2; b=-3; c=4; Oblicz: a-b-c=?
+5
+-3
+-9
+-1
+b
+Rzucamy dwa razy monet¹. Jakie jest prawdopodobieñstwo, ¿e dwa razy wypadnie orze³?
+1/4
+2/4
+1/6
+1/2
+a
+1 metr kwadratowy to .... centymetrów kwadratowych.
+10
+1000
+10000
+100
+c
+Iloraz to?
+wynik potêgowania
+wynik dzielenia
+wynik pierwiastkowania
+wynik mno¿enia
+b
+A^2 to inaczej:
+A+A
+A*A
+A-A
+A+A+A
+b
+Która z wymienionych liczb jest liczb¹ doskona³¹?
+19
+11
+6
+121
+c
+2! wynosi;
+2
+1
+8
+4
+a
+Liter¹ "h" oznaczamy tradycyjnie:
+podstawê
+bok
+najd³u¿sze ramiê
+wysokoœæ
+d
+Który z poni¿szych wzorów to wzór na pole trapezu?
+a+b
+a*h
+(a+b)*(h*0.5)
+a*b*h
+c
+Liczba pierwsza to liczba:
+która ma tylko dwa naturalne dzielniki
+ktora jest liczb¹ wymiern¹
+która nie dzieli siê przez nic
+która ma co najmniej dwa naturalne dzielniki
+a
+Ile wynowi liczba pi?
+3.1514
+3
+3.1415
+1.618
+c
+Julek mia³ œcianê o wymiarach 4dm x 8m, wisia³o na niej lustro o polu 2m^2. Jakie pole mia³aby œciana, gdyby od jej pola odj¹æ pole lustra?
+1.2m^2
+1m^2
+0.5dm^2
+3.2m^2
+a
+Co to za ci¹g? 1 1 2 3 5 8 13 21...
+ci¹g Fibonacciego
+magiczny ci¹g
+ci¹g Ulama
+ci¹g Gausa
+a
+Jaki jest wzór na pole trójk¹ta?
+a+b+c
+(a*h)/2
+(a*2)*h
+a/h
+b
+Je¿eli obwód ko³a to 12 pi, to jakie ma ono pole?
+36pi
+6pi
+14pi
+8pi
+a
+Jaka jest suma wszystkich liczb od 0 do 100?
+1000
+5000
+5050
+10000
+c
+3 do szeœcianu to:
+6
+9
+27
+81
+c
+Ile mililitrów zmieœci siê w 2 i 1/4 litra?
+2250
+2500
+2050
+225000
+a
+Ile wynosi pierwiastek szeœcienny ze 125?
+15
+5
+25
+12
+b
+Oblicz (2+3) (5-6)*3+2=
+-30
+-13
+17
+30
+b
+Janek kupi³ akwarium o wymiarach: 1m x 2m x 0,5m. Ile litrów wody musi wlaæ, by wype³niæ je do po³owy?
+50 litrów
+250 litrów
+500 litrów
+1000 litrów
+c
+ZnajdŸ najmniejsz¹ wspóln¹ wielokrotnoœæ liczb 70 i 28:
+98
+140
+168
+1960
+b
+D³ugopis kosztuje 23,80 z³otych, a o³ówek 1,70 z³otych. Ile razy tañszy jest o³ówek od d³ugopisu?
+13 razy
+14 razy
+15 razy
+22 razy
+b
+Sweter kosztuje 40 z³otych. Po podwy¿ce o 25 procent sweter bêdzie kosztowa³:
+65 z³otych
+60 z³otych
+45 z³otych
+55 z³otych
+a
+Która z podanych liczb jest o 1 wiêksza od wielokrotnoœci 4?
+16
+8
+9
+21
+d
+a^2+b^2 = c^2 to twierdzenie?
+Pitagorasa
+Euklidesa
+Newtona
+Gausa
+a
+9*99 to?
+1091
+891
+599
+999
+b
+Co to jest œrednica?
+dowolny odcinek o koñcach nale¿¹cych do tej figury i przechodz¹cy przez jej œrodek symetrii.
+dowolny odcinek o koñcach nale¿¹cych do tej figury i nie przechodz¹cy przez jej œrodek symetrii.
+dowolny odcinek o koñcach nie nale¿¹cych do tej figury, przechodz¹cy przez jej œrodek symetrii.
+dowolny odcinek o koñcach nale¿¹cych do tej figury i nie przechodz¹cy przez jej œrodek.
+a
+Ceg³a wa¿y 2kg i pó³ ceg³y. Ile wa¿y ceg³a?
+2kg
+3kg
+4kg
+5kg
+c
+28-15*2-16=?
+42
+56
+24
+-18
+d
+Wzór na pole kwadratu to?
+a*2
+a+a
+4*a
+2*a
+a
+Ile œcian ma graniastos³up piêciok¹tny
+5
+7
+10
+15
+b
+Ile k¹tów ma trapez?
+3
+4
+5
+6
+b
+Zaokr¹glij do setek liczbê 798.41
+799
+800
+798
+790
+b
+240% z 45 to:
+108
+120
+90
+100
+a
+Funt to jednostka masy powszechnie stosowana w pañstwach anglosaskich. Jak ma siê on do kilograma?
+1 kilkogram = 2.2 funta
+1 kilkogram = 0.45 funta
+1 kilkogram = 4.1 funta
+1 kilkogram = 1.6 funta
+a
