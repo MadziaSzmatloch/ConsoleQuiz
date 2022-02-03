@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Pliki\Quiz SFML\SFML-quiz\x64\Release\SFML-quiz.exe</FullPath>
+      <FullPath>D:\Pliki\Quiz SFML\ConsoleQuiz\x64\Release\SFML-quiz.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

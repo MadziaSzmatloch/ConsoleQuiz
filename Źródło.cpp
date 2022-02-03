@@ -10,6 +10,7 @@ string temat;
 
 int main()
 {
+	// funkcje potrzebne do poprawnego dzia³ania dŸwiêkow
 	sf::SoundBuffer poprawnaBuffer;
 	poprawnaBuffer.loadFromFile("Poprawna-odpowiedz.wav");
 	sf::Sound soundPoprawna;
@@ -25,8 +26,8 @@ int main()
 	sf::Sound soundVictory;
 	soundVictory.setBuffer(victoryBuffer);
 
-	setlocale(LC_CTYPE, "Polish");
-	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+	setlocale(LC_CTYPE, "Polish");  // funkcje potrzebnaa do poprawnego dzia³ania polskich znaków
+	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE); // funkcje potrzebnaa do poprawnego dzia³ania kolorów
 	SetConsoleTextAttribute(hConsole, 11);
 	cout << "   ______                       __     ____        _    " << endl;
 	cout << "  / ____/___  ____  _________  / /__  / __ \\__  __(_)___" << endl;
@@ -46,6 +47,8 @@ int main()
 	system("pause");
 	system("cls");
 
+
+	// wybór tematu
 	int a = 0;
 	while (a == 0)
 	{
@@ -72,11 +75,10 @@ int main()
 		}
 	}
 
-	
-
-	Pytanie p[10];
+	Pytanie p[10];  // stworzenie 10 obiektów pytañ
 	int suma = 0, strike = 0;
 	int* w_strike = &strike;
+	// losowanie dwóch zmiennych potrzebnych do pseudolosowoœci pytañ
 	int x, q;
 	srand(time(NULL));
 	x = rand() % 10 + 1;
@@ -89,21 +91,22 @@ int main()
 		}
 		else
 		{
-			p[i].nr_pyt = x + (i*q);
+			p[i].nr_pyt = x + (i*q);  
 		}
 		p[i].wczytaj(temat);
 		p[i].zadaj(temat);
 		p[i].sprawdz(w_strike);
 		if(p[i].punkt !=0)
 		{
-			soundPoprawna.play();
+			soundPoprawna.play();  // wywo³anie dŸwiêku
 			
 		}
 		else if (p[i].punkt == 0)
 		{
-			soundBledna.play();
+			soundBledna.play(); // wywo³anie dŸwiêku
 		}
 		
+		// dodanie do smu punktów zdobytych punktów i odjêcie punktów za u¿ycie pomocy
 		suma += p[i].minusowe;
 		suma += p[i].punkt;
 

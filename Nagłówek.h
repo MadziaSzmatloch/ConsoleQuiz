@@ -6,7 +6,7 @@
 using namespace std;
 
 
-void pomoc(string poprawna, string a, string b, string c, string d);
+void pomoc(string poprawna, string a, string b, string c, string d);  // funkcja odpowiedzialna za ko³a ratunkowe
 class Pytanie                     // deklaracja klasy
 {
 public:
